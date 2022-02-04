@@ -25,6 +25,7 @@ export const Container = styled.div<ContainerProps>`
       `};
 
     img {
+      max-width: 100%;
       pointer-events: none;
       user-select: none;
     }
